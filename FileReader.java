@@ -2,7 +2,7 @@
 //FileReader file = new FileReader(String file);
 
 // Creates a BufferedReader
-//BufferedReader buffer = new BufferedReader(file);
+//BufferedReader buffer = new BufferedRead
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
